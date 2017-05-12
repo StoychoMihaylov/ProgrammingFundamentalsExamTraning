@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\bin\Debug\CharityMarathon.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\bin\Debug\CharityMarathon.pdb
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\obj\Debug\CharityMarathon.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\obj\Debug\CharityMarathon.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\CharityMarathon\obj\Debug\CharityMarathon.pdb

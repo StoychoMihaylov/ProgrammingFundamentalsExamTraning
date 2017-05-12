@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\bin\Debug\LadyBugs2.exe.config
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\bin\Debug\LadyBugs2.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\bin\Debug\LadyBugs2.pdb
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\obj\Debug\LadyBugs2.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\obj\Debug\LadyBugs2.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\LadyBugs2\obj\Debug\LadyBugs2.pdb

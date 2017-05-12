@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\bin\Debug\NetherRealms.exe.config
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\bin\Debug\NetherRealms.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\bin\Debug\NetherRealms.pdb
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\obj\Debug\NetherRealms.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\obj\Debug\NetherRealms.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\NetherRealms\obj\Debug\NetherRealms.pdb

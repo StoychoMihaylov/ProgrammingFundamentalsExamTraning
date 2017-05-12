@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+C:\Users\Stoycho\Desktop\ProgrammingFundamentalsExamTraning\RoliTheCoder\obj\Debug\RoliTheCoder.pdb
